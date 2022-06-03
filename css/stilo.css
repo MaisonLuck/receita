@@ -1,0 +1,40 @@
+body{
+  background: rgb(230, 233, 237);
+  margin: 0;
+  padding: 0;
+}
+
+hr{
+  width: 50%;
+  border: 0.2rem solid;
+}
+
+h1{
+  text-align: center;
+  color: #222;
+  font-weight: 500;
+}
+.ingredientes{
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  font-weight: 300;
+  font-size: 1.2rem;
+  color: #222;
+}
+.preparo {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  font-weight: 300;
+  font-size: 1.2rem;
+  color: #222;
+  
+}
+
+fieldset{
+  width: 50% ;
+  margin: auto;
+  padding-bottom: auto 2rem;
+ 
+}
